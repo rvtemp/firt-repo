@@ -4,15 +4,3 @@ Hello World!!
 hi
 hello
 how
-are 
-yo
-u
-i
-o
-p
-l
-k
-k
-l
-m
-n
