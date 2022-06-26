@@ -5,4 +5,4 @@ hi
 hello
 how
 are 
-world asia people
+world
