@@ -5,4 +5,11 @@ hi
 hello
 how
 are 
-you
+yo
+u
+i
+o
+p
+l
+k
+
